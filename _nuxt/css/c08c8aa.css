@@ -1,0 +1,1 @@
+.vl-modal{z-index:10;text-align:center}.vl-modal,.vl-modal-backdrop{position:fixed;top:0;left:0;right:0}.vl-modal-backdrop{bottom:0;background:rgba(0,0,0,.4);z-index:-1}.t-code{border:1px solid #caced7}.t-code>.CodeMirror{height:400px}.t-url{word-break:break-all}.qrcode{max-width:100%}
